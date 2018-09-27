@@ -1,0 +1,26 @@
+Que1 
+Option - A (Cannot divide by 0 GFG ) 
+because in 1st case there is zero division error so it print exception case 
+and in 2nd case there is no error so print else case
+
+
+Que2
+Option - A (Runtime error)
+because finally and else statement cannot run together
+
+
+Que3
+Option - B (GFG) 
+because it is INDEXERROR so it is print only that exception case
+
+
+Que4
+Option - D (Geeks IndexError GFG ZeroDivisionError)
+because in 1st case there is no error so it print finally case and
+in 2nd case there is ZeroDivisionError so it is print ZeroDivisionError except case
+
+
+Que5
+Option - B (Runtime error)
+because it comes to a halt so it is a runtime error 
+and also exception is a runtime error
